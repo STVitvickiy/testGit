@@ -1,6 +1,6 @@
 <?php
 
-namespace UploaderVSRF;
+namespace SVHexaTest\UploaderVSRF;
 
 /**
  * Class uploaderClass

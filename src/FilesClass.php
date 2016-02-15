@@ -1,6 +1,6 @@
 <?php
 
-namespace FileSistemVSRF;
+namespace SVHexaTest\FileSistemVSRF;
 
 /**
  * Class FilesClass

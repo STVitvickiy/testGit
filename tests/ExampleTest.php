@@ -1,8 +1,8 @@
 <?php
 
-namespace Uploader\Test;
+namespace SVHexaTest\UploaderVSRF\Test;
 
-use Uploader\uploaderClass as Uploader;
+use SVHexaTest\UploaderVSRF\uploaderClass as Uploader;
 
 class ExampleTest extends \PHPUnit_Framework_TestCase
 {
