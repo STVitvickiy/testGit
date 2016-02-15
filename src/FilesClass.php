@@ -1,6 +1,6 @@
 <?php
 
-namespace FileSistem;
+namespace FileSistemVSRF;
 
 /**
  * Class FilesClass

@@ -1,5 +1,5 @@
 {
-    "name": "Uploader",
+    "name": "UploaderVSRF",
     "description": "Test task for the company hexa",
     "keywords": [
         "league",
@@ -23,13 +23,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Uploader\\": "src",
-            "FileSistem\\": "src"
+            "UploaderVSRF\\": "src",
+            "FileSistemVSRF\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Uploader\\Test\\": "tests"
+            "UploaderVSRF\\Test\\": "tests"
         }
     },
     "extra": {

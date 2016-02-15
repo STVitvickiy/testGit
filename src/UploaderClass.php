@@ -1,6 +1,6 @@
 <?php
 
-namespace Uploader;
+namespace UploaderVSRF;
 
 /**
  * Class uploaderClass
