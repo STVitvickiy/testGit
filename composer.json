@@ -23,13 +23,13 @@
     },
     "autoload": {
         "psr-4": {
-            "SVHexaTest\\UploaderVSRF\\": "src",
-            "SVHexaTest\\FileSistemVSRF\\": "src"
+            "Uploader\\": "src",
+            "FileSistem\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "SVHexaTest\\UploaderVSRF\\Test\\": "tests"
+            "Uploader\\Test\\": "tests"
         }
     },
     "extra": {

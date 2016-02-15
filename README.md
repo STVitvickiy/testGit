@@ -17,14 +17,14 @@ PSRs you support to avoid any confusion with users and contributors.
 Via Composer
 
 ``` bash
-$ composer require Uploader
+$ composer require league/skeleton
 ```
 
 ## Usage
 
 ``` php
-$class = new \Uploader\uploaderClass();
-$class->upload($url)
+$skeleton = new League\Skeleton();
+echo $skeleton->echoPhrase('Hello, League!');
 ```
 
 ## Testing
@@ -32,3 +32,16 @@ $class->upload($url)
 ``` bash
 $ phpunit
 ```
+
+## Contributing
+
+Please see [CONTRIBUTING](https://github.com/thephpleague/:package_name/blob/master/CONTRIBUTING.md) for details.
+
+## Credits
+
+- [:author_name](https://github.com/:author_username)
+- [All Contributors](https://github.com/thephpleague/:package_name/contributors)
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
