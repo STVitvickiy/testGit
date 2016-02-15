@@ -1,0 +1,40 @@
+{
+    "name": "Uploader",
+    "description": "Test task for the company hexa",
+    "keywords": [
+        "league",
+        "package"
+    ],
+    "homepage": "https://github.com/STVitvickiy/uploader.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanislav",
+            "email": "vitvistmail@gmail.com",
+            "homepage": "http://author-website.example.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Uploader\\": "src",
+            "FileSistem\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Uploader\\Test\\": "tests"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
